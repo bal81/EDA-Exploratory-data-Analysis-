@@ -5,7 +5,7 @@
 
 Data science is having a huge impact on the medical field, specifically in the area of cancer studies. In this project I will work with breast cancer data. This project focuses on data analysis using a simple step-by-step explanation.
 
-# Table of Contents carry out in the Notebook
+# Table of Contents showcased in the Jupiter Notebook
 1. [Chapter 1 - Project Overview](#ch1)
 1. [Chapter 2 - EDA Definition and Steps](#ch2)
 1. [Chapter 3 - Step 1: Data Gathering](#ch3)
