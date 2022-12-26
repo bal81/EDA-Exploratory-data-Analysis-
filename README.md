@@ -1,6 +1,6 @@
 # EDA-Exploratory-data-Analysis-
 
-/Users/baldervillagomez/Documents/UoM/mio/mio/jobs_App/2022/myrepo/Breast_Cancer/angiola-harry-nJv6xnlpNaA-unsplash.jpg
+![Exploratory data analysis for breast cancer prediction]/Users/baldervillagomez/Documents/UoM/mio/mio/jobs_App/2022/myrepo/Breast_Cancer/angiola-harry-nJv6xnlpNaA-unsplash.jpg
 
 Data science is having a huge impact on the medical field, specifically in the area of cancer studies. In this project I will work with breast cancer data. This project focuses on data analysis using a simple step-by-step explanation.
 
