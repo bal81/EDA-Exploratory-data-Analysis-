@@ -17,6 +17,7 @@ Data science is having a huge impact on the medical field, specifically in the a
 1. [Chapter 9 - Step 7: Dimensionality reduction and scaling of features](#ch10)
 1. [Chapter 10 - Step 9: Data Modelling](#ch10)
 1. [Chapter 12 - Step 10: Conclusion and saving the model](#ch10)
+1. [References](#ch90)
 
 <a id="ch1"></a>
 # Project Overview
@@ -85,3 +86,10 @@ In this summary, I will focus on the steps of EDA. I will explain what each step
 - Positive correlated features
 - Uncorrelated features
 - Negative correlated features 
+
+<a id="ch90"></a>
+# References
+
+* [Kaggle: Breast Cancer Prediction](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)   
+
+
